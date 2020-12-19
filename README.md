@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PauloMitsi&theme=vue-dark&show_icons=true)
 
 ## ***ABOUT ME***
-- *Hi devs, I'm Paulo Mitsi, or if you want, call me Mitsi. I'm starting to improve my skills about Front-end development. I'll share my progress over HTML | CSS | JavaScript, fell free to share any advice or tips!*
+- *Hi devs, I'm Paulo Mitsi, or if you want, call me Mitsi. I'm starting to improve my skills about Front-end development. I'll share my progress over HTML | CSS | JavaScript by my repositories, so fell free to share any advice or tips!*
 
 - <a href="https://www.linkedin.com/in/paulo-mitsi-6b640b202/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="13px" > LinkedIn</a>
 
